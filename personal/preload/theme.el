@@ -4,3 +4,6 @@
 
 ;; font
 (add-to-list 'default-frame-alist '(font . "JetBrains Mono-14"))
+
+;; disable scroll bar
+(scroll-bar-mode -1)
