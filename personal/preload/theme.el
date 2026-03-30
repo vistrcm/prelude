@@ -1,5 +1,5 @@
 ;; window size?
-(setq initial-frame-alist '((top . 0) (left . 0) (width . 175) (height . 81)))
+(setq initial-frame-alist '((top . 0) (left . 0) (width . 100) (height . 81)))
 
 
 ;; font
